@@ -61,3 +61,12 @@
     -webkit-font-smoothing:antialiased;
     -moz-osx-font-smoothing:grayscale;
 }
+
+.main-wrapper .page-wrapper{
+    width: 100%;
+    margin-left: 0px;
+}
+
+.main-wrapper .page-wrapper .page-content{
+    margin-top: 0px;
+}
