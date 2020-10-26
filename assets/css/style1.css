@@ -1,0 +1,63 @@
+.navbar{
+    z-index: 1;
+    background-color: transparent;
+}
+
+.navbar .container a{
+    font-size: 30px;
+    font-weight: 600;
+    color:  #031a61;
+    font-family: 'Montserrat';
+}
+
+.intro p:nth-child(1){
+    font-size: 24px;
+    font-weight: 500;
+    color: black;
+}
+
+.highlight-phone .intro .btn-light{
+    margin: 5px;
+    background-color: #3E3D3E;
+    border-color:  #3E3D3E;
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 50px;
+}
+
+.highlight-phone .intro .btn-primary{
+    margin:5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    line-height: 50px;
+}
+
+.highlight-phone .row .certificate{
+    position: absolute;
+    left: 55vw;
+    top: 10px;
+}
+
+.highlight-clean .buttons a{
+    display:inline-block;
+    text-decoration:none;
+    background-color:#23272B;
+    color:white;
+    cursor:pointer;
+    font-family:Montserrat;
+    font-size:13px;
+    line-height:50px;
+    text-align:center;
+    margin:0;
+    height:50px;
+    padding:0px 33px;
+    border-radius:.35rem;
+    max-width:100%;
+    white-space:nowrap;
+    overflow:hidden;
+    text-overflow:ellipsis;
+    font-weight:bold;
+    -webkit-font-smoothing:antialiased;
+    -moz-osx-font-smoothing:grayscale;
+}
